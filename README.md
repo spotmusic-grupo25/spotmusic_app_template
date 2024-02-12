@@ -18,7 +18,7 @@ Esse repositório tem como objetivo descrever um pouco da aplicação a que ele 
 
 <hr>
 <h3>Descrição da estrutura da aplicação:</h3>
-<h5>Padrão de desenvolvimento DDD com as camadas:
+<h5>Padrão de desenvolvimento DDD com as camadas:</h5>h5>
 <ul>
     <li>Application</li>
     <li>CrossCutting</li>
