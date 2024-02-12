@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b34d795f-58d1-482e-b97d-8156f7cc05fe": {
+      "ProjectGuid": "b34d795f-58d1-482e-b97d-8156f7cc05fe",
+      "DisplayName": "API.Template.CrossCutting",
+      "ColorIndex": 0
+    },
+    "6ab48014-ee14-48ee-b239-b5f08d71b478": {
+      "ProjectGuid": "6ab48014-ee14-48ee-b239-b5f08d71b478",
+      "DisplayName": "API.Template.Application",
+      "ColorIndex": 1
+    },
+    "fcfae564-3e21-46eb-b644-c65761d233d1": {
+      "ProjectGuid": "fcfae564-3e21-46eb-b644-c65761d233d1",
+      "DisplayName": "API.Template.Data",
+      "ColorIndex": 2
+    },
+    "9179cb15-2ed0-4587-9bdf-7155db9767fb": {
+      "ProjectGuid": "9179cb15-2ed0-4587-9bdf-7155db9767fb",
+      "DisplayName": "API.Template.Domain",
+      "ColorIndex": 3
+    },
+    "3ab67bf8-dabf-4f69-b532-fff2e9f220c6": {
+      "ProjectGuid": "3ab67bf8-dabf-4f69-b532-fff2e9f220c6",
+      "DisplayName": "API.Template.Service",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
